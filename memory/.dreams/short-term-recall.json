@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-08T19:37:16.597Z",
+  "entries": {
+    "memory:memory/2026-04-08.md:1:57": {
+      "key": "memory:memory/2026-04-08.md:1:57",
+      "path": "memory/2026-04-08.md",
+      "startLine": 1,
+      "endLine": 57,
+      "source": "memory",
+      "snippet": "# 2026-04-08 - Podcast Project Day ## Structure Now **All podcast content is in Notion. Nothing on local disk except:** - Landing page: GitHub Pages (https://bzinoun.github.io/option-a-podcast) - Source code: GitHub (https://github.com/bzinoun/option-a-podcast) ## Notion Structure **Dashboard:** https://notion.so/2f8b9f45-55c4-800f-afe9-ece0a799fe3d ``` Atlas Workspace (Dashboard) ├── 🎙️ Podcast Option A │ ├── 📝 Scripts & Templates │ ├── 📧 Email Sequences │ ├── 📅 Content Calendar │ ├── 👥 Outreach Messages │ └── 📋 Project Plan ├── 👥 Guests Database ├── 📋 Tasks Kanban ├── 📰 Veille Tech & AI ├── 📁 Resources & Templates └── ⚙️ Settings & Config ``` ## Databases | Datab",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "totalScore": 0.000002855710036831785,
+      "maxScore": 0.000001894671999387821,
+      "firstRecalledAt": "2026-04-08T19:37:12.859Z",
+      "lastRecalledAt": "2026-04-08T19:37:16.597Z",
+      "queryHashes": [
+        "e1163d2d12c3",
+        "c8bd536e6d19"
+      ],
+      "recallDays": [
+        "2026-04-08"
+      ],
+      "conceptTags": [
+        "podcast",
+        "project",
+        "day",
+        "structure",
+        "now",
+        "all",
+        "content",
+        "notion"
+      ]
+    }
+  }
+}
