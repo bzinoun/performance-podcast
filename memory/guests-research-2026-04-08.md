@@ -198,3 +198,156 @@
 - Email direct for those with known corporate emails
 - Warm intros preferred where possible
 
+
+---
+
+## NEW GUESTS FOUND (2026-04-08) - Extended Research
+
+### 23. Moulay Ahmed Iraqui
+- **Role:** Directeur General Exécutif Production
+- **Company:** TGCC (Travaux Generaux de Construction)
+- **Sport:** IronMan 70.3 (17x, PR 5h32), IronMan Full (3x), Marathon (14x, PR 3h52)
+- **Level:** Elite
+- **Priority:** Hot
+- **Notes:** DGE TGCC. Also runs ODARB Tri Academy. Very high volume endurance athlete with impressive PRs.
+- **Contact:** LinkedIn + Instagram @my_ahmed_iraqui
+
+### 24. Zineb Bennouna
+- **Role:** Fondatrice & CEO
+- **Company:** Meet The Runners (MTR) - 1ère SporTech marocaine
+- **Sport:** Running, Marathon
+- **Level:** Amateur
+- **Priority:** Warm
+- **Notes:** Sportech entrepreneurs. MTR leve 1M MAD. Appeared on Generation Kairos podcast. Runner.
+- **Contact:** LinkedIn/Instagram
+
+### 25. Otmane Benhlima
+- **Role:** Sport Events & Management Expert
+- **Company:** Smart Sport Consulting
+- **Sport:** Triathlon, IronMan 70.3
+- **Level:** Competitive
+- **Priority:** Warm
+- **Notes:** Organizer TBET Tamuda Bay Eco Triathlon with AXA Maroc. Completed IM 70.3 Marrakech 2019.
+- **Contact:** LinkedIn
+
+### 26. Smael Sebti
+- **Role:** CEO
+- **Company:** Publicis-WBC & Smarteez
+- **Sport:** IronMan 70.3 (3x), Triathlon
+- **Level:** Competitive
+- **Priority:** Warm
+- **Notes:** CEO Publicis-WBC. Founded Smarteez & Webplatform. Digital agency pioneer since 2010. Speaker African Digital Summit 2024.
+- **Contact:** LinkedIn: Smael Sebti
+
+### 27. Hassan Baraka
+- **Role:** Motivational Speaker - Executive Coach - Ice Swimmer
+- **Company:** Independent
+- **Sport:** Ice Swimming, IronMan 70.3, Extreme Sports
+- **Level:** Elite
+- **Priority:** Hot
+- **Notes:** 1st Moroccan to swim Ibiza-Formentera (20km) 2023. 1st place IM 70.3 Relay Tanger with Moroccan Lions. World ice swimming championships. Very inspiring story.
+- **Contact:** LinkedIn ou lespeakers.com
+
+### 28. Majid Amahroq
+- **Role:** President
+- **Company:** Federation Royale Marocaine de Triathlon
+- **Sport:** Triathlon
+- **Level:** Elite
+- **Priority:** Hot
+- **Notes:** President FRMTRI since 2019. VP Association Pays Francophones. Organized 1st World Cup Triathlon in Africa at Saidia 2025. Key figure in Moroccan triathlon.
+- **Contact:** LinkedIn or federation website
+
+### 29. Hicham Abourizk
+- **Role:** Fondateur & Directeur General
+- **Company:** Planet Sport Maroc
+- **Sport:** Running, Marathon
+- **Level:** Amateur
+- **Priority:** Warm
+- **Notes:** CEO Planet Sport Maroc. President Association Planet Sport Runners. Organizer 15KM de Bouskoura (10th edition). Opened 1st Reebok store in Morocco 2014.
+- **Contact:** LinkedIn
+
+### 30. Kaoutar Bendoumou
+- **Role:** Fondatrice & Directrice
+- **Company:** Azel Way / High Atlas Ultra Trail
+- **Sport:** Ultra Trail, Marathon
+- **Level:** Competitive
+- **Priority:** Warm
+- **Notes:** Fondatrice Azel Way. Directrice High Atlas Ultra Trail. Cofondatrice Tamuda Bay Eco Triathlon. Female sports entrepreneur.
+- **Contact:** LinkedIn/Instagram
+
+### 31. Ilan Benhaim
+- **Role:** Entrepreneur
+- **Company:** Endeavor Network
+- **Sport:** IronMan, Triathlon
+- **Level:** Amateur
+- **Priority:** Warm
+- **Notes:** IronMan finisher. Active in Endeavor network Morocco. Young entrepreneur.
+- **Contact:** LinkedIn
+
+---
+
+## Summary Statistics (2026-04-08)
+
+**Total guests identified:** 31 (22 original + 9 new)
+
+**Notion pages created:** 9 new guest pages as child pages of Atlas
+
+**Guests by sport:**
+- Triathlon/IronMan: ~18 guests
+- Marathon/Running: ~8 guests
+- Ultra Trail: ~4 guests
+- Ice Swimming/Extreme: ~2 guests
+
+**Priority breakdown:**
+- Hot: 7 guests (Mehdi Essadiq, Ichem Zaher, Moncef Belkhayat, Moulay Ahmed Iraqui, Hassan Baraka, Majid Amahroq, Amal A)
+- Warm: ~15 guests
+- Identified: ~9 guests
+
+
+### 32. Farid Benlafdil
+- **Role:** Co-founder and Chairman
+- **Company:** PE Partners
+- **Sport:** IronMan 70.3, IronMan 140.6 (Full), Triathlon
+- **Level:** Competitive
+- **Priority:** Warm
+- **Notes:** Completed IronMan 70.3 Dubai 2021 & Belek 2023. Completed IronMan 140.6 (full) Vitoria 2024. Active triathlete.
+- **Contact:** LinkedIn: Farid Benlafdil
+
+---
+
+## FINAL SUMMARY (2026-04-08) - PERFORMANCE Podcast Research
+
+**Total guests identified:** 32 (22 original + 10 new)
+
+**Notion pages created:** 32 pages (as child pages of parent Atlas page)
+
+**Priority HOT guests:**
+1. Ismael Belkhayat - CEO Chari, YC S21, IronMan + Ultra-Trail
+2. Mehdi Essadiq - Elite triathlete (world rank 78), Psychiatrist
+3. Ichem Zaher - Extreme triathlete, 1st African Enduroman finisher
+4. Moncef Belkhayat - Chairman Dislog Group, ex-Ministre
+5. Moulay Ahmed Iraqui - DGE TGCC, 17x IM 70.3 + 3x Full IM
+6. Hassan Baraka - Ice swimmer, IronMan, extreme sports
+7. Majid Amahroq - President FRMTRI, key triathlon figure
+8. Amal A - 2x WC 70.3 & WC 140.6 Kona qualified, Nike Ambassador
+
+**Priority WARM guests:** 24 more confirmed athlete-decision-makers
+
+**Sport breakdown:**
+- Triathlon/IronMan: ~20 guests
+- Marathon/Running: ~8 guests
+- Ultra Trail: ~5 guests
+- Ice Swimming/Extreme: ~2 guests
+
+**Next steps for Badr:**
+1. Start reaching out to HOT priority guests first
+2. Ismael Belkhayat - easiest contact (email known: ismael@chari.com)
+3. Hassan Baraka - great story for a first episode
+4. Moulay Ahmed Iraqui - elite credentials, impressive PRs
+5. Consider Majid Amahroq as a connector to the triathlon community
+
+**Contact strategy:**
+- For HOT guests with emails: send direct outreach
+- For others: LinkedIn connection first, then message
+- Consider warm introductions through existing network
+- Mamda-Mcma (Hind Alaoui's org) may be good partner for episode themes
