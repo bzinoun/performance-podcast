@@ -210,3 +210,23 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
+
+## Our Process — How We Work
+
+**Everything goes to Notion first.** Documents, plans, scripts, notes.
+
+| Type | Where |
+|------|-------|
+| Documentation, plans, templates | **Notion pages** |
+| Tasks & projects | **Notion databases** |
+| Code, HTML, static sites | **GitHub** (hosted via GitHub Pages) |
+| Local disk only | System files (AGENTS.md, SOUL.md, USER.md, HEARTBEAT.md, IDENTITY.md, TOOLS.md) + memory/ |
+
+**Why:** Notion is our command center. Badr can access everything from anywhere. GitHub hosts what needs to be live (landing pages, etc.).
+
+**When working on a project:**
+1. Create Notion pages for the project
+2. Build content in Notion
+3. If web hosting needed → use GitHub Pages
+4. Delete local .md files after moving to Notion
+5. Commit workspace to git regularly
