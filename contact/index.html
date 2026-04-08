@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact — PERFORMANCE Podcast</title>
+  <meta name="description" content="Contactez l'équipe PERFORMANCE Podcast. Proposez un guest, collaborez, ou dites-nous bonjour.">
+  <meta property="og:title" content="Contact — PERFORMANCE Podcast">
+  <meta property="og:type" content="website">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root { --bg: #0a1628; --accent: #ff6b35; --accent-soft: rgba(255,107,53,0.15); --text: #fff; --text-muted: rgba(255,255,255,0.6); --border: rgba(255,255,255,0.08); }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Inter', system-ui, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+    .container { max-width: 700px; margin: 0 auto; padding: 6rem 2rem; }
+    .back { color: var(--accent); text-decoration: none; font-size: 0.9rem; display: inline-flex; align-items: center; gap: 0.5rem; margin-bottom: 3rem; }
+    h1 { font-size: clamp(2rem, 5vw, 3.5rem); font-weight: 800; margin-bottom: 1rem; }
+    .intro { color: var(--text-muted); font-size: 1.1rem; line-height: 1.7; margin-bottom: 3rem; }
+    .contact-options { display: grid; gap: 1.5rem; margin-bottom: 3rem; }
+    .contact-card { background: rgba(255,255,255,0.04); border: 1px solid var(--border); border-radius: 16px; padding: 1.5rem; display: flex; gap: 1rem; align-items: flex-start; transition: all 0.3s; }
+    .contact-card:hover { border-color: rgba(255,107,53,0.3); }
+    .contact-card .icon { width: 48px; height: 48px; background: var(--accent-soft); border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 1.25rem; flex-shrink: 0; }
+    .contact-card h3 { font-size: 1rem; margin-bottom: 0.25rem; }
+    .contact-card p { color: var(--text-muted); font-size: 0.9rem; }
+    .contact-card a { color: var(--accent); text-decoration: none; }
+    form { background: rgba(255,255,255,0.03); border: 1px solid var(--border); border-radius: 20px; padding: 2rem; }
+    .form-group { margin-bottom: 1.25rem; }
+    label { display: block; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem; color: var(--text-muted); }
+    input, textarea, select { width: 100%; background: rgba(255,255,255,0.05); border: 1px solid var(--border); border-radius: 12px; padding: 0.875rem 1rem; color: var(--text); font-size: 1rem; font-family: inherit; transition: all 0.3s; }
+    input:focus, textarea:focus, select:focus { outline: none; border-color: var(--accent); background: rgba(255,107,53,0.05); }
+    textarea { resize: vertical; min-height: 120px; }
+    button { width: 100%; background: var(--accent); color: white; border: none; border-radius: 12px; padding: 1rem; font-size: 1rem; font-weight: 600; cursor: pointer; transition: all 0.3s; font-family: inherit; }
+    button:hover { transform: translateY(-2px); box-shadow: 0 8px 30px rgba(255,107,53,0.3); }
+    .success { display: none; text-align: center; padding: 2rem; }
+    .success.show { display: block; }
+    .success h3 { font-size: 1.5rem; margin-bottom: 0.5rem; color: var(--accent); }
+    footer { text-align: center; padding: 3rem; color: var(--text-muted); font-size: 0.85rem; border-top: 1px solid rgba(255,255,255,0.05); margin-top: 4rem; }
+    footer a { color: var(--accent); text-decoration: none; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a href="index.html" class="back">← Retour</a>
+    
+    <h1>Contact</h1>
+    <p class="intro">
+      Vous avez une idée de guest pour PERFORMANCE ? Vous voulez collaborer ? 
+      Ou simplement nous dire bonjour ? On lit tout.
+    </p>
+
+    <div class="contact-options">
+      <div class="contact-card">
+        <div class="icon">🎙️</div>
+        <div>
+          <h3>Proposer un guest</h3>
+          <p>Vous connaissez un décideur marocain passionné de sport ? <a href="mailto:badr@zinoun.com">Dites-le nous</a>.</p>
+        </div>
+      </div>
+      <div class="contact-card">
+        <div class="icon">🤝</div>
+        <div>
+          <h3>Partenariat & Sponsoring</h3>
+          <p>Intéressé par un partenariat ? <a href="mailto:badr@zinoun.com">Écrivez-nous</a>.</p>
+        </div>
+      </div>
+      <div class="contact-card">
+        <div class="icon">📱</div>
+        <div>
+          <h3>Réseaux sociaux</h3>
+          <p><a href="https://linkedin.com/company/performance-podcast" target="_blank">LinkedIn</a> · <a href="https://instagram.com/performance.podcast.ma" target="_blank">Instagram</a></p>
+        </div>
+      </div>
+    </div>
+
+    <form id="contactForm">
+      <div class="form-group">
+        <label for="name">Nom</label>
+        <input type="text" id="name" name="name" required placeholder="Votre nom">
+      </div>
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required placeholder="votre@email.com">
+      </div>
+      <div class="form-group">
+        <label for="subject">Sujet</label>
+        <select id="subject" name="subject" required>
+          <option value="">Sélectionnez...</option>
+          <option value="guest">Proposer un guest</option>
+          <option value="partnership">Partenariat / Sponsoring</option>
+          <option value="feedback">Retour sur le podcast</option>
+          <option value="hello">Autre</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="message">Message</label>
+        <textarea id="message" name="message" required placeholder="Votre message..."></textarea>
+      </div>
+      <button type="submit">Envoyer</button>
+    </form>
+
+    <div class="success" id="successMsg">
+      <h3>✓ Message envoyé !</h3>
+      <p style="color: var(--text-muted);">Merci ! On revient vers vous très vite.</p>
+    </div>
+
+    <footer>
+      <p>© 2026 <a href="https://linkedin.com/in/badrzinoun" target="_blank">Badr Zinoun</a> · <a href="index.html">PERFORMANCE Podcast</a></p>
+    </footer>
+  </div>
+
+  <script>
+    document.getElementById('contactForm').addEventListener('submit', function(e) {
+      e.preventDefault();
+      const data = new FormData(this);
+      // Store locally as simple backup
+      const submissions = JSON.parse(localStorage.getItem('performance_contacts') || '[]');
+      submissions.push({ name: data.get('name'), email: data.get('email'), subject: data.get('subject'), message: data.get('message'), date: new Date().toISOString() });
+      localStorage.setItem('performance_contacts', JSON.stringify(submissions));
+      this.style.display = 'none';
+      document.getElementById('successMsg').classList.add('show');
+    });
+  </script>
+</body>
+</html>
