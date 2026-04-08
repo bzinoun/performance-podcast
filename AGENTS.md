@@ -230,3 +230,9 @@ This is a starting point. Add your own conventions, style, and rules as you figu
 3. If web hosting needed → use GitHub Pages
 4. Delete local .md files after moving to Notion
 5. Commit workspace to git regularly
+
+## Critical Rules
+
+- **Always verify before sending.** Check URLs, IDs, API responses before sending anything to Badr or making changes.
+- **Be certain, not fast.** It's better to double-check than to send wrong info. Never guess.
+- **Validate all external resources.** Test links, confirm API success, verify Notion pages exist.
